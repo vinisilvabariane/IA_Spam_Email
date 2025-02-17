@@ -14,3 +14,17 @@ Spam Classifier é um modelo de aprendizado de máquina que classifica e-mails c
 - 📑 TfidfVectorizer (para conversão de texto em vetores numéricos)
 - 📈 Multinomial Naive Bayes (para classificação)
 - 🛠 Pipeline do Scikit-learn (para simplificar o fluxo de trabalho)
+
+Siga as etapas abaixo para executar o projeto em seu ambiente local.
+
+### Pré-requisitos
+- Python 3.x
+- Bibliotecas necessárias:
+  - pandas
+  - scikit-learn
+
+### Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/vinisilvabariane/IA_Spam_Email.git
