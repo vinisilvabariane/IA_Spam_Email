@@ -1,0 +1,442 @@
+[
+  {
+    "label": "ham",
+    "email": "Olá, gostaria de confirmar minha presença na reunião de amanhã."
+  },
+  {
+    "label": "spam",
+    "email": "Ganhe uma fortuna! Não perca essa oportunidade única. Clique aqui."
+  },
+  {
+    "label": "ham",
+    "email": "Oi, só para avisar que a entrega será feita hoje entre 14h e 16h."
+  },
+  {
+    "label": "spam",
+    "email": "Seu e-mail foi selecionado para uma grande promoção! Clique aqui para saber mais."
+  },
+  {
+    "label": "ham",
+    "email": "Vamos agendar o almoço para a próxima semana? Me avise sua disponibilidade."
+  },
+  {
+    "label": "spam",
+    "email": "Parabéns! Você ganhou um prêmio de 1 milhão de reais. Responda agora!"
+  },
+  {
+    "label": "ham",
+    "email": "Confirmando nossa reunião de terça-feira às 10h."
+  },
+  {
+    "label": "spam",
+    "email": "Alerta de vírus! Seu computador está infectado. Clique aqui para corrigir."
+  },
+  {
+    "label": "ham",
+    "email": "Precisamos revisar o contrato antes de enviar para o cliente."
+  },
+  {
+    "label": "spam",
+    "email": "URGENTE: Sua conta foi hackeada! Acesse imediatamente para recuperar sua senha."
+  },
+  {
+    "label": "ham",
+    "email": "O relatório está quase pronto, só preciso de mais alguns dados."
+  },
+  {
+    "label": "spam",
+    "email": "Clique aqui para ganhar um prêmio de 50.000 reais!"
+  },
+  {
+    "label": "ham",
+    "email": "Reunião confirmada para o dia 15, às 9h."
+  },
+  {
+    "label": "spam",
+    "email": "Oferta imperdível! Viaje para o exterior com desconto de 80%!"
+  },
+  {
+    "label": "ham",
+    "email": "Podemos agendar uma call para discutir os próximos passos?"
+  },
+  {
+    "label": "spam",
+    "email": "Apenas hoje! Compre 1 e leve 2! Ofertas incríveis aguardam por você."
+  },
+  {
+    "label": "ham",
+    "email": "Aqui está o link do arquivo que mencionei durante a reunião."
+  },
+  {
+    "label": "spam",
+    "email": "Seu saldo foi zerado. Clique aqui para recuperar."
+  },
+  {
+    "label": "ham",
+    "email": "Estarei fora do escritório na próxima semana, mas retorno na terça-feira."
+  },
+  {
+    "label": "spam",
+    "email": "Apenas hoje, sua chance de ser milionário! Clique para participar."
+  },
+  {
+    "label": "ham",
+    "email": "Favor revisar o orçamento enviado e me retornar até sexta-feira."
+  },
+  {
+    "label": "spam",
+    "email": "Você foi pré-selecionado para um grande prêmio. Responda agora!"
+  },
+  {
+    "label": "ham",
+    "email": "O treinamento foi reagendado para o dia 25."
+  },
+  {
+    "label": "spam",
+    "email": "Ganhe dinheiro fácil e rápido, sem sair de casa! Clique agora."
+  },
+  {
+    "label": "ham",
+    "email": "Precisamos definir a data do evento o quanto antes."
+  },
+  {
+    "label": "spam",
+    "email": "Seu prêmio de 1.000 reais está esperando por você! Clique aqui para resgatar."
+  },
+  {
+    "label": "ham",
+    "email": "Aguardo o envio do relatório de vendas."
+  },
+  {
+    "label": "spam",
+    "email": "Você foi escolhido para participar de uma pesquisa milionária! Clique aqui."
+  },
+  {
+    "label": "ham",
+    "email": "Tenho um novo item na lista de tarefas, podemos discutir amanhã?"
+  },
+  {
+    "label": "spam",
+    "email": "URGENTE: Sua conta do banco foi bloqueada. Clique aqui para resolver."
+  },
+  {
+    "label": "ham",
+    "email": "A análise do projeto precisa ser concluída até a próxima sexta-feira."
+  },
+  {
+    "label": "spam",
+    "email": "Você ganhou um iPhone! Clique para confirmar seu prêmio."
+  },
+  {
+    "label": "ham",
+    "email": "O pagamento foi processado com sucesso, conforme acordado."
+  },
+  {
+    "label": "spam",
+    "email": "Alguém tentou acessar sua conta. Clique aqui para mudar a senha."
+  },
+  {
+    "label": "ham",
+    "email": "Por favor, me envie os dados atualizados até o final do dia."
+  },
+  {
+    "label": "spam",
+    "email": "Sua assinatura foi renovada automaticamente. Clique aqui para cancelar."
+  },
+  {
+    "label": "ham",
+    "email": "O cliente está pedindo uma atualização sobre o projeto."
+  },
+  {
+    "label": "spam",
+    "email": "Parabéns! Você foi selecionado para um prêmio de 100.000 reais."
+  },
+  {
+    "label": "ham",
+    "email": "A reunião foi adiada para segunda-feira, por favor, confirme sua presença."
+  },
+  {
+    "label": "spam",
+    "email": "Última chance! Ganhe 50% de desconto em todos os produtos!"
+  },
+  {
+    "label": "ham",
+    "email": "Podemos marcar uma call para discutir os resultados da pesquisa?"
+  },
+  {
+    "label": "spam",
+    "email": "Clique aqui para obter sua recompensa exclusiva agora!"
+  },
+  {
+    "label": "ham",
+    "email": "O relatório de análise de dados está pronto, podemos revisá-lo amanhã."
+  },
+  {
+    "label": "spam",
+    "email": "Você tem uma nova mensagem importante, clique aqui para abrir."
+  },
+  {
+    "label": "ham",
+    "email": "Estarei disponível a partir das 14h para discutir o orçamento."
+  },
+  {
+    "label": "spam",
+    "email": "Urgente! Sua conta de e-mail foi bloqueada. Clique aqui para desbloquear."
+  },
+  {
+    "label": "ham",
+    "email": "A apresentação foi enviada para o time, aguardando feedback."
+  },
+  {
+    "label": "spam",
+    "email": "Ganhe um vale-presente de 1000 reais agora mesmo! Clique para participar."
+  },
+  {
+    "label": "ham",
+    "email": "Podemos realizar a reunião de alinhamento na próxima terça-feira?"
+  },
+  {
+    "label": "spam",
+    "email": "Apenas hoje! Oferecemos 90% de desconto em produtos selecionados."
+  },
+  {
+    "label": "ham",
+    "email": "O código de acesso está pronto, conforme discutido."
+  },
+  {
+    "label": "spam",
+    "email": "Clique aqui para desbloquear sua conta e evitar a exclusão!"
+  },
+  {
+    "label": "ham",
+    "email": "Oi, vamos marcar uma reunião para definir os próximos passos?"
+  },
+  {
+    "label": "spam",
+    "email": "Ganhe um iPhone grátis! Clique aqui para participar."
+  },
+  {
+    "label": "ham",
+    "email": "Gostaria de confirmar o horário da nossa reunião de amanhã."
+  },
+  {
+    "label": "spam",
+    "email": "Você foi selecionado para um prêmio de 500.000 reais! Responda agora."
+  },
+  {
+    "label": "ham",
+    "email": "Precisamos revisar os documentos antes de enviar para o cliente."
+  },
+  {
+    "label": "spam",
+    "email": "Seu saldo bancário foi reduzido. Clique aqui para recuperar."
+  },
+  {
+    "label": "ham",
+    "email": "Confirmando nossa call de amanhã às 15h."
+  },
+  {
+    "label": "spam",
+    "email": "Seu computador foi infectado com vírus! Clique aqui para proteger."
+  },
+  {
+    "label": "ham",
+    "email": "O contrato foi aprovado, podemos prosseguir com a assinatura."
+  },
+  {
+    "label": "spam",
+    "email": "Parabéns, você ganhou uma viagem dos sonhos! Clique para saber mais."
+  },
+  {
+    "label": "ham",
+    "email": "Aqui está o arquivo que você pediu para revisar."
+  },
+  {
+    "label": "spam",
+    "email": "Última chance para ganhar 1.000 reais! Clique agora para participar."
+  },
+  {
+    "label": "ham",
+    "email": "O cliente solicitou uma atualização sobre o andamento do projeto."
+  },
+  {
+    "label": "spam",
+    "email": "Apenas hoje! Compre 2 produtos e leve 3! Não perca."
+  },
+  {
+    "label": "ham",
+    "email": "Estarei fora do escritório esta semana, mas retornarei na próxima terça-feira."
+  },
+  {
+    "label": "spam",
+    "email": "Você foi escolhido para ganhar um prêmio de 100.000 reais!"
+  },
+  {
+    "label": "ham",
+    "email": "Reunião de feedback marcada para quinta-feira às 10h."
+  },
+  {
+    "label": "spam",
+    "email": "Urgente: Seu pacote foi retido! Clique aqui para liberá-lo."
+  },
+  {
+    "label": "ham",
+    "email": "Podemos agendar uma call para discutir os detalhes do projeto?"
+  },
+  {
+    "label": "spam",
+    "email": "Você tem uma nova oportunidade de ganhar prêmios incríveis! Clique agora."
+  },
+  {
+    "label": "ham",
+    "email": "Gostaria de confirmar se o pagamento foi processado corretamente."
+  },
+  {
+    "label": "spam",
+    "email": "Seu perfil foi selecionado para participar de uma pesquisa paga!"
+  },
+  {
+    "label": "ham",
+    "email": "A análise do relatório foi concluída. Podemos revisar juntos?"
+  },
+  {
+    "label": "spam",
+    "email": "Seu prêmio de 1.000 reais está esperando! Clique aqui para resgatar."
+  },
+  {
+    "label": "ham",
+    "email": "Estarei em reunião amanhã pela manhã, mas disponível à tarde."
+  },
+  {
+    "label": "spam",
+    "email": "Ganhe 100% de desconto em sua primeira compra! Não perca esta oferta."
+  },
+  {
+    "label": "ham",
+    "email": "O orçamento foi revisado e enviado ao cliente para aprovação."
+  },
+  {
+    "label": "spam",
+    "email": "Apenas hoje: Ganhe um prêmio exclusivo clicando aqui."
+  },
+  {
+    "label": "ham",
+    "email": "Vamos confirmar o horário da nossa próxima reunião?"
+  },
+  {
+    "label": "spam",
+    "email": "Você foi escolhido para ganhar um prêmio de 1.000.000 reais!"
+  },
+  {
+    "label": "ham",
+    "email": "O cliente está aguardando a proposta para revisão final."
+  },
+  {
+    "label": "spam",
+    "email": "Clique aqui para desbloquear seu prêmio de 500 reais!"
+  },
+  {
+    "label": "ham",
+    "email": "Podemos fazer uma call amanhã para discutir o cronograma?"
+  },
+  {
+    "label": "spam",
+    "email": "Sua conta foi hackeada! Clique aqui para recuperar."
+  },
+  {
+    "label": "ham",
+    "email": "O relatório está quase pronto, estou aguardando apenas alguns dados finais."
+  },
+  {
+    "label": "spam",
+    "email": "Parabéns! Você ganhou um super prêmio! Clique para saber mais."
+  },
+  {
+    "label": "ham",
+    "email": "Estamos finalizando os detalhes do projeto, em breve enviarei a proposta."
+  },
+  {
+    "label": "spam",
+    "email": "Sua conta foi bloqueada. Clique aqui para desbloquear imediatamente."
+  },
+  {
+    "label": "ham",
+    "email": "Preciso da sua confirmação para agendar a reunião de amanhã."
+  },
+  {
+    "label": "spam",
+    "email": "URGENTE: Sua conta de e-mail foi comprometida. Clique aqui para alterar a senha."
+  },
+  {
+    "label": "ham",
+    "email": "Reunião adiada para amanhã às 9h. Por favor, confirme sua presença."
+  },
+  {
+    "label": "spam",
+    "email": "Você foi escolhido para um prêmio de 50.000 reais! Clique agora."
+  },
+  {
+    "label": "ham",
+    "email": "O pagamento foi processado corretamente, aguardo o seu retorno."
+  },
+  {
+    "label": "spam",
+    "email": "Ganhe dinheiro fácil! Clique aqui e descubra como."
+  },
+  {
+    "label": "ham",
+    "email": "A reunião será às 14h, conforme combinado."
+  },
+  {
+    "label": "spam",
+    "email": "Apenas hoje, 80% de desconto em todos os produtos. Não perca!"
+  },
+  {
+    "label": "ham",
+    "email": "Aqui está o arquivo de planejamento do evento que discutimos."
+  },
+  {
+    "label": "spam",
+    "email": "Seu computador está infectado! Clique aqui para eliminar os vírus."
+  },
+  {
+    "label": "ham",
+    "email": "A atualização do projeto foi enviada para revisão do cliente."
+  },
+  {
+    "label": "spam",
+    "email": "Clique aqui para garantir sua chance de ganhar um grande prêmio!"
+  },
+  {
+    "label": "ham",
+    "email": "Vamos agendar uma call para revisar o progresso do projeto?"
+  },
+  {
+    "label": "spam",
+    "email": "Sua conta foi congelada! Clique aqui para reativá-la."
+  },
+  {
+    "label": "ham",
+    "email": "O relatório de progresso está pronto, aguardo sua avaliação."
+  },
+  {
+    "label": "spam",
+    "email": "Você tem uma nova mensagem! Clique aqui para abri-la."
+  },
+  {
+    "label": "ham",
+    "email": "Gostaria de confirmar a data da nossa próxima reunião."
+  },
+  {
+    "label": "spam",
+    "email": "Seu prêmio de 10.000 reais está aguardando! Clique aqui para resgatar."
+  },
+  {
+    "label": "ham",
+    "email": "Estou disponível para nossa call amanhã às 11h."
+  },
+  {
+    "label": "spam",
+    "email": "Você foi selecionado para ganhar uma viagem internacional!"
+  }
+]
